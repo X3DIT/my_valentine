@@ -1,7 +1,3 @@
-This is a great idea. A clean README.md file not only makes your project look professional on GitHub, but it also helps you remember how to set it up later.
-
-Here is a polished, "Valentine-themed" template for your project.
-
 💖 Valentine's Day Invitation Web App
 A playful, interactive web application designed to ask that special someone to be your Valentine. It features a "dodging" No button, adorable cat animations, heart particle effects, and automatic email notifications.
 
